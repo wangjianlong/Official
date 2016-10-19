@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\Deploy\Loowootech.Official</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>10/18/2016 09:38:25</publishTime>
+    </File>
+    <File Include="bin/LoowooTech.Official.Web.dll">
+      <publishTime>10/19/2016 13:54:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>10/18/2016 09:38:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/18/2016 09:38:29</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>10/18/2016 09:38:31</publishTime>
+    </File>
+    <File Include="Content/banner1.jpg">
+      <publishTime>10/18/2016 10:12:46</publishTime>
+    </File>
+    <File Include="Content/elephant-alt.png">
+      <publishTime>10/18/2016 10:00:40</publishTime>
+    </File>
+    <File Include="Content/elephant.png">
+      <publishTime>10/18/2016 10:35:32</publishTime>
+    </File>
+    <File Include="Content/font.css">
+      <publishTime>10/18/2016 09:41:57</publishTime>
+    </File>
+    <File Include="Content/GIS1.jpg">
+      <publishTime>10/18/2016 11:19:03</publishTime>
+    </File>
+    <File Include="Content/GIS2.jpg">
+      <publishTime>10/18/2016 11:19:28</publishTime>
+    </File>
+    <File Include="Content/iPad1.png">
+      <publishTime>10/18/2016 19:32:58</publishTime>
+    </File>
+    <File Include="Content/logo.png">
+      <publishTime>12/14/2014 15:36:56</publishTime>
+    </File>
+    <File Include="Content/logo1.png">
+      <publishTime>10/18/2016 09:57:34</publishTime>
+    </File>
+    <File Include="Content/logo2.jpg">
+      <publishTime>10/18/2016 09:58:18</publishTime>
+    </File>
+    <File Include="Content/loowootech-alt.png">
+      <publishTime>10/18/2016 11:56:14</publishTime>
+    </File>
+    <File Include="Content/loowootech-alt2.png">
+      <publishTime>10/18/2016 12:03:56</publishTime>
+    </File>
+    <File Include="Content/loowootech.png">
+      <publishTime>10/18/2016 11:50:54</publishTime>
+    </File>
+    <File Include="Content/wowphp.min.css">
+      <publishTime>10/18/2016 09:41:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/18/2016 09:38:15</publishTime>
+    </File>
+    <File Include="Index.cshtml">
+      <publishTime>10/19/2016 09:49:07</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/18/2016 09:38:31</publishTime>
+    </File>
+    <File Include="Scripts/wowphp.min.js">
+      <publishTime>10/18/2016 10:45:13</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>10/18/2016 19:25:22</publishTime>
+    </File>
+    <File Include="Views/Home/Case.cshtml">
+      <publishTime>10/19/2016 16:16:18</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/18/2016 19:24:42</publishTime>
+    </File>
+    <File Include="Views/Home/Login.cshtml">
+      <publishTime>10/18/2016 19:26:04</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>10/18/2016 09:38:15</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>10/19/2016 13:53:32</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/18/2016 09:38:15</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>10/18/2016 09:38:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/18/2016 20:26:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

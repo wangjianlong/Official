@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>杭州陆吾科技信息咨询有限公司-@(ViewBag.Title)</title>
+    <link href="~/Content/wowphp.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/wowphp.min.js"></script>
+    <script src="~/Scripts/hm.js"></script>
+    <style id="fit-vids-style">
+        .fluid-width-video-wrapper {
+            width: 100%;
+            position: relative;
+            padding: 0;
+        }
+
+            .fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+    </style>
+</head>
+<body class="sticky-nav transparent-nav">
+
+    <!-- menu -->
+    <!-- Navigation -->
+    <!-- END Navigation -->
+    <!-- Site header -->
+    <header class="site-navigation">
+        <nav class="site-navigation">
+            <div class="container">
+                <div class="logo">
+                    <a class="logo-default" href="/Home/Index">
+                        <img src="~/Content/loowootech.png" alt="logo" />
+                    </a>
+                    <a class="logo-transparent" href="/Home/Index">
+                        <img src="~/Content/loowootech-alt2.png" alt="logo" />
+                    </a>
+                </div>
+
+                <a class="navbar-toggle" href="#" data-toggle="offcanvas">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <ul class="nav-menu">
+                    <li><a href="/Home/Index" target="_self">首页</a></li>
+                    <li><a href="/Home/Case" target="_self">产品/案例</a></li>
+                    <li><a href="/Home/About" target="_self">关于公司</a></li>
+                    <li><a class="menu-highlighted global-login "  href="/Home/Login">登录</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div style="background-image: url(/Content/banner1.jpg);" class="banner banner-full-height overlay-black">
+            @RenderSection("div",false)
+          
+        </div>
+    </header>
+
+    <!-- END Site header -->
+    <!-- /menu -->
+    <!-- Main container -->
+    @RenderBody()
+</body>
+</html>
+

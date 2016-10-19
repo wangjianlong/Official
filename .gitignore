@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/packages
+/LoowooTech.Official.Web/bin
+/LoowooTech.Official.Web/obj
