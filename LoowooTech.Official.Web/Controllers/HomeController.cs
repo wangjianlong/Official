@@ -31,5 +31,10 @@ namespace LoowooTech.Official.Web.Controllers
             return View();
         }
 
+        public ActionResult Register()
+        {
+            return View();
+        }
+
     }
 }
