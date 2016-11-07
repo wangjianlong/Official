@@ -16,7 +16,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/18/2016 09:38:25</publishTime>
     </File>
     <File Include="bin/LoowooTech.Official.Web.dll">
-      <publishTime>10/19/2016 13:54:13</publishTime>
+      <publishTime>11/07/2016 18:20:20</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
       <publishTime>10/18/2016 09:38:29</publishTime>
@@ -66,11 +66,17 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/banner1.jpg">
       <publishTime>10/18/2016 10:12:46</publishTime>
     </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>11/04/2016 10:10:45</publishTime>
+    </File>
     <File Include="Content/elephant-alt.png">
       <publishTime>10/18/2016 10:00:40</publishTime>
     </File>
     <File Include="Content/elephant.png">
       <publishTime>10/18/2016 10:35:32</publishTime>
+    </File>
+    <File Include="Content/elian.css">
+      <publishTime>11/04/2016 10:11:40</publishTime>
     </File>
     <File Include="Content/font.css">
       <publishTime>10/18/2016 09:41:57</publishTime>
@@ -80,6 +86,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Content/GIS2.jpg">
       <publishTime>10/18/2016 11:19:28</publishTime>
+    </File>
+    <File Include="Content/iPad1-1.png">
+      <publishTime>11/07/2016 17:05:24</publishTime>
+    </File>
+    <File Include="Content/iPad1-2.png">
+      <publishTime>11/07/2016 17:21:57</publishTime>
     </File>
     <File Include="Content/iPad1.png">
       <publishTime>10/18/2016 19:32:58</publishTime>
@@ -93,6 +105,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Content/logo2.jpg">
       <publishTime>10/18/2016 09:58:18</publishTime>
     </File>
+    <File Include="Content/loowootech-3.png">
+      <publishTime>11/07/2016 15:55:30</publishTime>
+    </File>
+    <File Include="Content/loowootech-50.png">
+      <publishTime>11/04/2016 10:47:27</publishTime>
+    </File>
+    <File Include="Content/loowootech-alt-50.png">
+      <publishTime>11/04/2016 11:21:52</publishTime>
+    </File>
     <File Include="Content/loowootech-alt.png">
       <publishTime>10/18/2016 11:56:14</publishTime>
     </File>
@@ -101,6 +122,18 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="Content/loowootech.png">
       <publishTime>10/18/2016 11:50:54</publishTime>
+    </File>
+    <File Include="Content/loowootech3.png">
+      <publishTime>11/07/2016 15:55:00</publishTime>
+    </File>
+    <File Include="Content/mycss.css">
+      <publishTime>11/04/2016 10:11:47</publishTime>
+    </File>
+    <File Include="Content/sliders.css">
+      <publishTime>11/04/2016 10:11:34</publishTime>
+    </File>
+    <File Include="Content/swiper-3.3.1.min.css">
+      <publishTime>11/04/2016 10:12:16</publishTime>
     </File>
     <File Include="Content/wowphp.min.css">
       <publishTime>10/18/2016 09:41:42</publishTime>
@@ -114,6 +147,156 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="packages.config">
       <publishTime>10/18/2016 09:38:31</publishTime>
     </File>
+    <File Include="Police/analytics.js">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/animate.min.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/anonymoususerspace">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/apple-app-store.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/bg1.jpg">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/bootstrap.min.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/bootstrap.min.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/css%281%29">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/css%282%29">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/firsttwo.js">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/followcompany.html">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/fonts/1YwB1sO8YE1Lyjf12WNiUA.woff2">
+      <publishTime>11/07/2016 16:27:29</publishTime>
+    </File>
+    <File Include="Police/fonts/712-icon-fonts.woff">
+      <publishTime>11/07/2016 16:27:20</publishTime>
+    </File>
+    <File Include="Police/fonts/H2DMvhDLycM56KNuAtbJYA.woff2">
+      <publishTime>11/07/2016 16:27:07</publishTime>
+    </File>
+    <File Include="Police/fonts/IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2">
+      <publishTime>11/07/2016 16:27:39</publishTime>
+    </File>
+    <File Include="Police/fonts/PLygLKRVCQnA5fhu3qk5fQ.woff2">
+      <publishTime>11/07/2016 16:27:46</publishTime>
+    </File>
+    <File Include="Police/fonts/yg3UMEsefgZ8IHz_ryz86IpVThvdH1ZERIrfWb3R7t4.woff2">
+      <publishTime>11/07/2016 16:27:54</publishTime>
+    </File>
+    <File Include="Police/geekwire-firsttwo-kennewick-police.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/geekwire.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/gtm.js">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/in.js">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/iphone-app-1.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/jquery.knob.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/jquery.min.js">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/jquery.nav.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/jquery.vegas.min.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/jquery.vegas.min.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/js">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/js%281%29">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/logo.svg">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/marinsheriff.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/owl.carousel.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/owl.carousel.min.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/owl.theme.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/pixeden-icons.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/policemag-page12.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/policemag.png">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/responsive.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/secureAnonymousFramework">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/smoothscroll.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/styles%281%29.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/styles.css">
+      <publishTime>11/07/2016 15:05:12</publishTime>
+    </File>
+    <File Include="Police/wow.min.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Police/xdrpc.html">
+      <publishTime>11/07/2016 15:05:34</publishTime>
+    </File>
+    <File Include="Police/zerif.js">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>11/04/2016 10:10:26</publishTime>
+    </File>
+    <File Include="Scripts/hm.js">
+      <publishTime>10/18/2016 10:46:08</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>11/04/2016 10:10:16</publishTime>
+    </File>
+    <File Include="Scripts/swiper-3.3.1.min.js">
+      <publishTime>11/04/2016 10:11:59</publishTime>
+    </File>
     <File Include="Scripts/wowphp.min.js">
       <publishTime>10/18/2016 10:45:13</publishTime>
     </File>
@@ -121,19 +304,40 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/18/2016 19:25:22</publishTime>
     </File>
     <File Include="Views/Home/Case.cshtml">
-      <publishTime>10/19/2016 16:16:18</publishTime>
+      <publishTime>10/19/2016 16:38:08</publishTime>
+    </File>
+    <File Include="Views/Home/Case3.cshtml">
+      <publishTime>11/07/2016 16:49:27</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>10/18/2016 19:24:42</publishTime>
+      <publishTime>11/04/2016 10:50:33</publishTime>
+    </File>
+    <File Include="Views/Home/Index2.cshtml">
+      <publishTime>11/04/2016 10:09:15</publishTime>
+    </File>
+    <File Include="Views/Home/Index3.cshtml">
+      <publishTime>11/07/2016 17:59:48</publishTime>
     </File>
     <File Include="Views/Home/Login.cshtml">
-      <publishTime>10/18/2016 19:26:04</publishTime>
+      <publishTime>11/03/2016 09:30:45</publishTime>
+    </File>
+    <File Include="Views/Home/Login3.cshtml">
+      <publishTime>11/07/2016 18:16:08</publishTime>
+    </File>
+    <File Include="Views/Home/Register.cshtml">
+      <publishTime>11/03/2016 09:38:08</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>10/18/2016 09:38:15</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>10/19/2016 13:53:32</publishTime>
+      <publishTime>11/07/2016 14:58:44</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout2.cshtml">
+      <publishTime>11/07/2016 15:05:33</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout3.cshtml">
+      <publishTime>11/07/2016 18:08:57</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>10/18/2016 09:38:15</publishTime>
@@ -142,7 +346,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>10/18/2016 09:38:15</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/18/2016 20:26:23</publishTime>
+      <publishTime>11/07/2016 18:17:35</publishTime>
     </File>
   </ItemGroup>
 </Project>

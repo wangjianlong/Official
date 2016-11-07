@@ -54,14 +54,72 @@
         </nav>
         <div style="background-image: url(/Content/banner1.jpg);" class="banner banner-full-height overlay-black">
             @RenderSection("div",false)
-          
         </div>
+
+       
     </header>
 
     <!-- END Site header -->
     <!-- /menu -->
     <!-- Main container -->
     @RenderBody()
+
+    <main>
+        <section>
+
+        </section>
+    </main>
+
+    <!-- Main container -->
+    <!-- footer -->
+    <!-- Site footer -->
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="row">
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </div>
+        </div>
+  
+    </footer>
+
+    <script type="text/javascript">
+        (function () {
+            var WOWPHP = window.WOWPHP = {
+                "ROOT": "", //当前网站地址
+                "APP": "Home", //当前项目地址
+                "PUBLIC": "/Public", //项目公共目录地址
+                "DEEP": "/", //PATHINFO分割符
+                "MODEL": ["2", "1", "html"],
+                "VAR": ["m", "c", "a"],
+                "CONTROLLER": "/index",
+                "ACTION": "/index/index",
+                "USERHASH": "",
+            }
+        })();
+    </script>
+    <script>
+var _hmt = _hmt || [];
+(function() {
+	var hm = document.createElement("script"),
+		font  = document.createElement("link"),
+		s  = document.getElementsByTagName("script")[0],
+		heads = document.getElementsByTagName("head")[0];
+	hm.src = "//hm.baidu.com/hm.js?1bdadafe512cbd3aed4ad112187d06a9";
+	s.parentNode.insertBefore(hm, s);
+	font.href = '/Public/Home/css/font.css';
+	font.type = 'text/css';
+	font.rel  = 'stylesheet';
+	heads.appendChild(font);
+})();
+    </script>
+    <div id="topcontrol" style="margin-left: auto; margin-right: auto; width: 1000px; display: none;">
+        <a href="javascript:void(0);" class="top_stick" style="position: fixed; bottom: 20px; right: 30px; z-index: 9999;">&nbsp;</a>
+    </div>
 </body>
 </html>
 

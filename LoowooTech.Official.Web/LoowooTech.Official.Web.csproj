@@ -134,20 +134,68 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\banner1.jpg" />
+    <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\elephant-alt.png" />
     <Content Include="Content\elephant.png" />
+    <Content Include="Content\elian.css" />
     <Content Include="Content\font.css" />
     <Content Include="Content\GIS1.jpg" />
     <Content Include="Content\GIS2.jpg" />
+    <Content Include="Content\iPad1-1.png" />
+    <Content Include="Content\iPad1-2.png" />
     <Content Include="Content\iPad1.png" />
     <Content Include="Content\logo.png" />
     <Content Include="Content\logo1.png" />
     <Content Include="Content\logo2.jpg" />
+    <Content Include="Content\loowootech-3.png" />
+    <Content Include="Content\loowootech-50.png" />
+    <Content Include="Content\loowootech-alt-50.png" />
     <Content Include="Content\loowootech-alt.png" />
     <Content Include="Content\loowootech-alt2.png" />
     <Content Include="Content\loowootech.png" />
+    <Content Include="Content\loowootech3.png" />
+    <Content Include="Content\mycss.css" />
+    <Content Include="Content\sliders.css" />
+    <Content Include="Content\swiper-3.3.1.min.css" />
     <Content Include="Content\wowphp.min.css" />
     <Content Include="Global.asax" />
+    <Content Include="Police\analytics.js" />
+    <Content Include="Police\animate.min.css" />
+    <Content Include="Police\apple-app-store.png" />
+    <Content Include="Police\bg1.jpg" />
+    <Content Include="Police\bootstrap.min.css" />
+    <Content Include="Police\bootstrap.min.js" />
+    <Content Include="Police\firsttwo.js" />
+    <Content Include="Police\followcompany.html" />
+    <Content Include="Police\geekwire-firsttwo-kennewick-police.png" />
+    <Content Include="Police\geekwire.png" />
+    <Content Include="Police\gtm.js" />
+    <Content Include="Police\in.js" />
+    <Content Include="Police\iphone-app-1.png" />
+    <Content Include="Police\jquery.knob.js" />
+    <Content Include="Police\jquery.min.js" />
+    <Content Include="Police\jquery.nav.js" />
+    <Content Include="Police\jquery.vegas.min.css" />
+    <Content Include="Police\jquery.vegas.min.js" />
+    <Content Include="Police\logo.svg" />
+    <Content Include="Police\marinsheriff.png" />
+    <Content Include="Police\owl.carousel.css" />
+    <Content Include="Police\owl.carousel.min.js" />
+    <Content Include="Police\owl.theme.css" />
+    <Content Include="Police\pixeden-icons.css" />
+    <Content Include="Police\policemag-page12.png" />
+    <Content Include="Police\policemag.png" />
+    <Content Include="Police\responsive.css" />
+    <Content Include="Police\smoothscroll.js" />
+    <Content Include="Police\styles%281%29.css" />
+    <Content Include="Police\styles.css" />
+    <Content Include="Police\wow.min.js" />
+    <Content Include="Police\xdrpc.html" />
+    <Content Include="Police\zerif.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\hm.js" />
+    <Content Include="Scripts\jquery.min.js" />
+    <Content Include="Scripts\swiper-3.3.1.min.js" />
     <Content Include="Scripts\wowphp.min.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -180,8 +228,27 @@
     <Content Include="Views\Home\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Police\anonymoususerspace" />
+    <Content Include="Police\css" />
+    <Content Include="Police\css%281%29" />
+    <Content Include="Police\css%282%29" />
+    <Content Include="Police\js" />
+    <Content Include="Police\js%281%29" />
+    <Content Include="Police\secureAnonymousFramework" />
+    <Content Include="Police\fonts\1YwB1sO8YE1Lyjf12WNiUA.woff2" />
+    <Content Include="Police\fonts\712-icon-fonts.woff" />
+    <Content Include="Police\fonts\H2DMvhDLycM56KNuAtbJYA.woff2" />
+    <Content Include="Police\fonts\IQHow_FEYlDC4Gzy_m8fcoWiMMZ7xLd792ULpGE4W_Y.woff2" />
+    <Content Include="Police\fonts\PLygLKRVCQnA5fhu3qk5fQ.woff2" />
+    <Content Include="Police\fonts\yg3UMEsefgZ8IHz_ryz86IpVThvdH1ZERIrfWb3R7t4.woff2" />
     <None Include="Properties\PublishProfiles\LoowooTech.Official.pubxml" />
     <Content Include="Views\Home\Register.cshtml" />
+    <Content Include="Views\Shared\_Layout2.cshtml" />
+    <Content Include="Views\Home\Index2.cshtml" />
+    <Content Include="Views\Shared\_Layout3.cshtml" />
+    <Content Include="Views\Home\Index3.cshtml" />
+    <Content Include="Views\Home\Case3.cshtml" />
+    <Content Include="Views\Home\Login3.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

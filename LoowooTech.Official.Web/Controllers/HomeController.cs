@@ -13,10 +13,26 @@ namespace LoowooTech.Official.Web.Controllers
 
         public ActionResult Index()
         {
+            return RedirectToAction("Index3");
+           // return View();
+        }
+
+        public ActionResult Index2()
+        {
+            return View();
+        }
+
+        public ActionResult Index3()
+        {
             return View();
         }
 
         public ActionResult Case()
+        {
+            return View();
+        }
+
+        public ActionResult Case3()
         {
             return View();
         }
@@ -27,6 +43,11 @@ namespace LoowooTech.Official.Web.Controllers
         }
 
         public ActionResult Login()
+        {
+            return View();
+        }
+
+        public ActionResult Login3()
         {
             return View();
         }
